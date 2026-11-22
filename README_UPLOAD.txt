@@ -1,0 +1,1 @@
+Executive Portfolio V8 — upload ALL files in this folder to the ROOT of your GitHub Pages repository. Keep filenames unchanged. Commit to main. Refresh your site after GitHub Pages deploys. The promotional video is linked from YouTube and does not need a video upload.
